@@ -15,9 +15,7 @@ export class LocationSeeder implements Seeder {
     const touristLocations = [
       { name: 'Hardrock lux spring resort' },
       { name: 'Mang inasal' },
-      { name: 'Noodle nook' },
       { name: 'St ritas parish church' },
-      { name: 'The edge' },
       { name: 'The spot' },
       { name: 'Balingasag park' },
       { name: 'Bebedeck' },
@@ -28,6 +26,22 @@ export class LocationSeeder implements Seeder {
       { name: 'Joannas nook' },
       { name: 'La rocka' },
       { name: 'Linabu mountain view' },
+      { name: 'Pidoy Beach Resort' },
+      { name: 'Jollibee' },
+      { name: 'The Edge Garden Bar' },
+      { name: 'The Edge EG Sweets' },
+      { name: 'The Edge Wing Zone' },
+      { name: 'The Edge Khaleesis' },
+      { name: 'The Edge Maamo Refreshments' },
+      { name: 'RRG Food Corner' },
+      { name: 'Crispy King' },
+      { name: 'Juanas Place' },
+      { name: 'The Spot Secret place of Toring' },
+      { name: 'The Spot House of Boodle' },
+      { name: 'TCafe' },
+      { name: 'K, OK Grill' },
+      { name: 'Madelines' },
+      { name: 'Juanas Pantalan' },
     ];
 
     // Function to generate a random score between min and max
